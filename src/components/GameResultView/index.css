@@ -1,0 +1,37 @@
+.result-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.result-item-text {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.result-item-btn {
+  border: 0px;
+  background-color: transparent;
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+}
+.result-image {
+  width: 150px;
+  height: 150px;
+}
+.playagain-btn {
+  border: 0px;
+  background-color: #ffffff;
+  width: 120px;
+  height: 40px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  cursor: pointer;
+}
